@@ -1,5 +1,5 @@
 string 2
 A row by B1
 string 2
-B1 added a line here
+B1 CHANGED a line here
 add a line in branch feature1
